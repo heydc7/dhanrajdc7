@@ -27,9 +27,9 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [All About Git, GitHub & Open Source by Dhanraj Chavan & Abhishek Srivastava #MLSA #MSP](https://www.youtube.com/watch?v=FlsvjD4QEVI)
 - [Introductory Session of Team ACSES 🎉](https://www.youtube.com/watch?v=59G0G2A0ZQA)
 - [🌟 Learn Flutter For FREE | 30 Days of Flutter Program by Google Developers #Flutter #Google #Apps](https://www.youtube.com/watch?v=kJaBB_bnypg)
 - [Azure Kubernetes Day 🎉 Amazing Sessions, Fun Games, Awesome Prizes & Many More!!!! #Azure](https://www.youtube.com/watch?v=tEV0zmDm5Jw)
 - [Scaler & InterviewBit Swags UNBOXING 🔥🔥🔥 Really Awesome 🤩 #Swags #Goodies](https://www.youtube.com/watch?v=xQySjXPJ3HU)
-- [30 Days of Google Cloud Swags UNBOXING 🔥🔥🔥🔥](https://www.youtube.com/watch?v=8YBRxiP-Ku4)
 <!-- YOUTUBE:END -->
