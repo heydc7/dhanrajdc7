@@ -27,7 +27,7 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Intro to Google Actions - Develop & Publish Your First Action on Google Assistant | KITCoEK](https://www.youtube.com/watch?v=-6QIBfNoqsE)
+- [Intro to Google Actions - Develop & Publish Your First Action on Google Assistant | 30 Oct 2020](https://www.youtube.com/watch?v=-6QIBfNoqsE)
 - [Intro to Cloud Computing & Microsoft Azure | Hosted By Dhanraj Chavan & Kshitij Sangar #MLSA](https://www.youtube.com/watch?v=avJshisyEJw)
 - [All About Git, GitHub & Open Source by Dhanraj Chavan & Abhishek Srivastava #MLSA #MSP](https://www.youtube.com/watch?v=FlsvjD4QEVI)
 - [Introductory Session of Team ACSES 🎉](https://www.youtube.com/watch?v=59G0G2A0ZQA)
