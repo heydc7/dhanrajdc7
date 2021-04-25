@@ -22,8 +22,9 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 
 ## MY GIT STATS
-![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanrajdc7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajdc7&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7"/>|
+|---|---|
+
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
