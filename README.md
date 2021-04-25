@@ -22,7 +22,7 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
 |---|---|
 
 
