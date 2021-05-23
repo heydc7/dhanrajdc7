@@ -34,3 +34,8 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 - [SwagKit Unboxing 🔥  Microsoft Learn Student Ambassadors #MLSA](https://www.youtube.com/watch?v=uT_2XPKrcxA)
 - [Complete Guide for GoogleCloudReady Student Enrolment 2021](https://www.youtube.com/watch?v=QwIliPeguAo)
 <!-- YOUTUBE:END -->
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
