@@ -28,9 +28,9 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top 3 Icon Websites FREE #Shorts](https://www.youtube.com/watch?v=HCvaLkdUZJ0)
 - [WWDC 2021 | Swift Student Challenge Submission [Submitted]](https://www.youtube.com/watch?v=gMEdtcLDdGU)
 - [Amazing Swags from Microsoft's Azure Developer League 2021 🔥](https://www.youtube.com/watch?v=IlBgaPLBDaM)
 - [SwagKit Unboxing 🔥  Microsoft Learn Student Ambassadors #MLSA](https://www.youtube.com/watch?v=uT_2XPKrcxA)
 - [Complete Guide for GoogleCloudReady Student Enrolment 2021](https://www.youtube.com/watch?v=QwIliPeguAo)
-- [GitHub Skyline 🔥 #Shorts](https://www.youtube.com/watch?v=OmXFgCJxipI)
 <!-- YOUTUBE:END -->
