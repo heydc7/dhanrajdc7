@@ -29,11 +29,11 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Auth0 Ambassador Swags Unboxing](https://www.youtube.com/watch?v=P3HCGlqIDu8)
 - [Unboxing Swift Student Challenge Swags | 🍎  WWDC21](https://www.youtube.com/watch?v=4S8f5qaMbiY)
 - [LinkSum : Now you can share links on Instagram Stories #Shorts #YoutubeShorts #apps](https://www.youtube.com/watch?v=WwtiFQi8poc)
 - [Top 3 Icon Websites FREE #Shorts](https://www.youtube.com/watch?v=HCvaLkdUZJ0)
 - [WWDC 2021 | Swift Student Challenge Submission [Accepted]](https://www.youtube.com/watch?v=gMEdtcLDdGU)
-- [Amazing Swags from Microsoft's Azure Developer League 2021 🔥](https://www.youtube.com/watch?v=IlBgaPLBDaM)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
