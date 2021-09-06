@@ -29,11 +29,11 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Use Azure as your personal computer ft  VSCode | MLSA Event #3](https://www.youtube.com/watch?v=nuk3Sinnc4g)
 - [Facilitator Swags Unboxing | GoogleCloudReady 2021](https://www.youtube.com/watch?v=BSCDzmHhuJM)
 - [MyMeets App Promo | Download Now](https://www.youtube.com/watch?v=bJZEyVJCLoI)
 - [Integrate Auth0 Login/SignUp Box with SwiftUI | Part 1](https://www.youtube.com/watch?v=MAKsC8uFEqY)
 - [Auth0 Ambassador Swags Unboxing](https://www.youtube.com/watch?v=P3HCGlqIDu8)
-- [Unboxing Swift Student Challenge Swags | 🍎  WWDC21](https://www.youtube.com/watch?v=4S8f5qaMbiY)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
