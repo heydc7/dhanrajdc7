@@ -40,7 +40,7 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplified: Authentication & Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
-- [🔥 Top 10 Most Useful Coding Tools & Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
+- [Simplified: Authentication &amp; Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
+- [🔥 Top 10 Most Useful Coding Tools &amp; Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
 <!-- BLOG-POST-LIST:END -->
 
