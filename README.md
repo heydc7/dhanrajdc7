@@ -31,11 +31,11 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [HackThisFall Winner Swags Unboxing | HTF Season 2 🔥](https://www.youtube.com/watch?v=l4xv_xEclHs)
 - [Unboxing MLH INIT Swags 🔥](https://www.youtube.com/watch?v=tFRph38-IT0)
 - [Unboxing GitHub Field Day India Goodies](https://www.youtube.com/watch?v=tYIjodgi4oU)
 - [Auth0 Swags Unboxing #2](https://www.youtube.com/watch?v=QVdPENURcds)
 - [Use Azure as your personal computer ft  VSCode | MLSA Event #3](https://www.youtube.com/watch?v=nuk3Sinnc4g)
-- [Facilitator Swags Unboxing | GoogleCloudReady 2021](https://www.youtube.com/watch?v=BSCDzmHhuJM)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
