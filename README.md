@@ -24,7 +24,7 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 - 🔭 Open Source Enthusiastic
 
 ## MY APPS
-<a href="https://apps.apple.com/us/app/linksum/id1500146123"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card1.png"/></a>|<a href="https://apps.apple.com/us/app/mymeets/id1541013603"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card2.png"/></a>|
+<a href="https://apps.apple.com/us/app/linksum/id1500146123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card1.png"/></a>|<a href="https://apps.apple.com/us/app/mymeets/id1541013603"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card2.png"/></a>|
 |---|---|
 <a href="https://apps.apple.com/us/app/infytracer/id1523540289"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card3.png"/></a>|<a href="https://apps.apple.com/us/app/countio/id1510104828"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/images/card4.png"/></a>|
 
