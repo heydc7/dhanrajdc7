@@ -52,9 +52,3 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 - [🔥 Top 10 Most Useful Coding Tools &amp; Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
 <!-- BLOG-POST-LIST:END -->
 
-th:empty {
-  font-size: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
