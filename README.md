@@ -48,7 +48,8 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplified: Authentication &amp; Authorization](https://dev.to/dhanrajdc7/simplified-authentication-authorization-1nhb)
-- [🔥 Top 10 Most Useful Coding Tools &amp; Resources Every Programmer 👨🏻‍💻 Should Know 🤔](https://dev.to/dhanrajdc7/top-10-most-useful-coding-tools-resources-every-programmer-should-know-11nc)
+- [8 Essential Tools to Protect Your Privacy in 2022](https://medium.com/@codingpotter/8-essential-tools-to-protect-your-privacy-in-2022-3945ddc96225?source=rss-dac7ccbe76f4------2)
+- [Top 10 Most Useful Coding Tools &amp; Resources Every Programmer ‍ Should Know](https://medium.com/@codingpotter/top-10-most-useful-coding-tools-resources-every-programmer-should-know-895e6a1aaa98?source=rss-dac7ccbe76f4------2)
+- [Simplified: Authentication &amp; Authorization](https://medium.com/@codingpotter/simplified-authentication-authorization-143f784b8eb2?source=rss-dac7ccbe76f4------2)
 <!-- BLOG-POST-LIST:END -->
 
