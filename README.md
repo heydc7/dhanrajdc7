@@ -39,11 +39,11 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unboxing Swift Student Challenge Swags | Apple WWDC 2022](https://www.youtube.com/watch?v=uaHKb1HHkYk)
 - [SilentPhish - WWDC 2022 | Swift Student Challenge Submission [Accepted]](https://www.youtube.com/watch?v=BotDcUJ1RRo)
 - [HackThisFall Winner Swags Unboxing | HTF Season 2 🔥](https://www.youtube.com/watch?v=l4xv_xEclHs)
 - [Unboxing MLH INIT Swags 🔥](https://www.youtube.com/watch?v=tFRph38-IT0)
 - [Unboxing GitHub Field Day India Goodies](https://www.youtube.com/watch?v=tYIjodgi4oU)
-- [Auth0 Swags Unboxing #2](https://www.youtube.com/watch?v=QVdPENURcds)
 <!-- YOUTUBE:END -->
 
 # Latest Blog posts
