@@ -17,9 +17,9 @@
 Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
 
 - 🍎 WWDC 2021 & 2022 Scholar
+- ⚡️ Auth0 Ambassador
 - 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter)
 - 🌟 Microsoft Learn Student Ambassador
-- ⚡️ Auth0 Ambassador
 - 👨🏻‍💻 Indie App Developer
 - 🔭 Open Source Enthusiastic
 
