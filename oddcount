@@ -1,0 +1,46 @@
+#include<bits/stdc++.h>
+#define int long long int
+#define pb push_back
+#define all(y) y.begin(),y.end()
+#define endl '\n'
+using namespace std;
+void solve() {
+	int m;
+	cin >> m;
+	vector<int> v1(m+ 1);
+	set<int> s1;
+	for (int j = 1; j <= m; j++) {
+		cin >> v1[j];
+		s1.insert(v1[j]);
+	}
+	int res = 0, IDY = -1;
+	for (auto &it : s1) {
+		int y = it;
+		vector<int> dp(m + 1);
+		if (v1[1] == y) {
+			dp[1] = 1;
+		}
+		for (int j = 2; j <= m; j++) {
+			if (v1[j] == y) {
+				dp[j] = max(dp[j - 1], dp[j - 2] + 1);
+			} else {
+				dp[j] = max(dp[j - 1], dp[j - 2]);
+			}
+		}
+		if (res < dp[m]) {
+			res = dp[m];
+			IDY = y;
+		}
+	}
+	cout << IDY << endl;
+}
+int32_t main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
+	int t;
+	cin >> t;
+	while (t--) {
+		solve();
+	}
+}
